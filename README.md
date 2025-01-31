@@ -18,7 +18,7 @@ This application related to the [Pokedex-API](https://github.com/masnat/pokedex-
 
 ```bash
 #install the requirement modules
-npm install express cors body-parser dotenv pg
+npm install express cors body-parser dotenv pg axios
 ```
 
 ## Usage
